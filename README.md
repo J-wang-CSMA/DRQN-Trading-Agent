@@ -17,14 +17,14 @@ To set up the environment and run the DRQN model, follow these steps:
 
 ## Dependencies
 
-All dependencies of the project are within the projectExperimental.py file itself.
+All dependencies of the project are within the projectSequential.py file itself.
 
 ## Usage
 
-To run the DRQN model, execute the `projectExperimental.py` script:
+To run the DRQN model, execute the `projectSequential.py` script:
 
 ```bash
-python projectExperimental.py
+python projectSequential.py
 ```
 
 The script will automatically download historical stock price data and perform training and testing of the DRQN model.
