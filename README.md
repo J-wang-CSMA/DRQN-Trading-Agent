@@ -24,7 +24,7 @@ All dependencies of the project are within the projectExperimental.py file itsel
 To run the DRQN model, execute the `projectExperimental.py` script:
 
 ```bash
-python project.py
+python projectExperimental.py
 ```
 
 The script will automatically download historical stock price data and perform training and testing of the DRQN model.
